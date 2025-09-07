@@ -1,2 +1,2 @@
 Hello, Git! This is my first file.
-I am from the Huazhong University of Science and technology.
+I am from the Huazhong University of Science and Technology.
