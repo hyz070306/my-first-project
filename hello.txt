@@ -1,2 +1,5 @@
 Hello, Git! This is my first file.
 I am from the Huazhong University of Science and Technology.
+Today is my first try!
+I want to join in Dian,a very great group in our school,and I am starting learning the language of C.This file is my first try,and I need to learn more!
+Let's start doing this!!!
