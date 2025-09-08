@@ -3,3 +3,6 @@ I am from the Huazhong University of Science and Technology.
 Today is my first try!
 I want to join in Dian,a very great group in our school,and I am starting learning the language of C.This file is my first try,and I need to learn more!
 Let's start doing this!!!
+
+I don't need to use this file anymore.This is only a test file,which means I'am ready.I'll start to learn C.
+So goodbye!!! 
